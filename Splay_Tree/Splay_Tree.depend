@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569159180 source:c:\users\acer\desktop\ads project\cache_splay_tree\cache_memory.cpp
+	"Cache_Memory.h"
+
+1569144363 c:\users\acer\desktop\ads project\cache_splay_tree\cache_memory.h
+	<iostream>
+
