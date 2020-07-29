@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1571458097 source:c:\users\acer\desktop\ads project\bloom_filter\bloom_filters.cpp
+	"Bloom_filters.h"
+
+1570064240 c:\users\acer\desktop\ads project\bloom_filter\bloom_filters.h
+	<string>
+	<stdlib.h>
+	<stdint.h>
+	<cmath>
+	<ctime>
+	<iostream>
+
+1571907533 source:c:\users\acer\desktop\ads project\bloom_filter\cache_memory.cpp
+	"Cache_Memory.h"
+
+1570098793 c:\users\acer\desktop\ads project\bloom_filter\cache_memory.h
+	<queue>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1571910562 source:c:\users\acer\desktop\ads project\bloom_filter\main.cpp
+	"Cache_Memory.h"
+	"Bloom_filters.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1570098765 source:c:\users\harish a kumar\desktop\ads project\bloom_filter\cache_memory.cpp
+	"Cache_Memory.h"
+
+1570098793 c:\users\harish a kumar\desktop\ads project\bloom_filter\cache_memory.h
+	<queue>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1570064282 source:c:\users\harish a kumar\desktop\ads project\bloom_filter\bloom_filters.cpp
+	"Bloom_filters.h"
+
+1570064240 c:\users\harish a kumar\desktop\ads project\bloom_filter\bloom_filters.h
+	<string>
+	<stdlib.h>
+	<stdint.h>
+	<cmath>
+	<ctime>
+	<iostream>
+
+1570100194 source:c:\users\harish a kumar\desktop\ads project\bloom_filter\main.cpp
+	"Cache_Memory.h"
+	"Bloom_filters.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

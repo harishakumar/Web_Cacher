@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Bloom_filters.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Bloom_filters.h" open="1" top="0" tabpos="2">
+		<Cursor position="36" topLine="3" />
+	</File>
+	<File name="Cache_Memory.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="3289" topLine="108" />
+	</File>
+	<File name="Cache_Memory.h" open="1" top="0" tabpos="4">
+		<Cursor position="82" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="2064" topLine="44" />
+	</File>
+</CodeBlocks_layout_file>
